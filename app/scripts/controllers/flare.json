@@ -1,0 +1,14 @@
+{
+    "name": "flare",
+    "children": [
+                  {"name": "AgglomerativeCluster.js", "size": 3938, "count": 2},
+                  {"name": "CommunityStructure.js", "size": 3812, "count" : 20},
+                  {"name": "HierarchicalCluster.js", "size": 6714, "count": 35},
+                  {"name": "MergeEdge.js", "size": 743,"count": 10},
+                  {"name": "BetweennessCentrality.js", "size": 3534,"count": 33},
+                  {"name": "LinkDistance.js", "size": 5731},
+                  {"name": "MaxFlowMinCut.js", "size": 7840},
+                  {"name": "ShortestPaths.js", "size": 5914},
+                  {"name": "SpanningTree.js", "size": 3416, "count": 24}
+        ]
+}
